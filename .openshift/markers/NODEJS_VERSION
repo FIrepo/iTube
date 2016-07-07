@@ -1,0 +1,4 @@
+#  The last "non-blank" version line is the one picked up by the code in
+#  .openshift/lib/utils
+#  Default: 4.4.7
+4.4.7
